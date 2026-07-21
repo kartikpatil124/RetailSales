@@ -4,7 +4,8 @@
 
 ### End-to-End Data Analytics Project using MySQL & Power BI
 
-<img src="YOUR_DASHBOARD_IMAGE_LINK" width="100%" alt="Retail Sales Dashboard"/>
+<img width="3075" height="1763" alt="RetailSales_dashboard_page-0001" src="https://github.com/user-attachments/assets/1a356358-3f52-44f6-be08-c87302214208" />
+
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
